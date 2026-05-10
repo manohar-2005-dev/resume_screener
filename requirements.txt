@@ -1,0 +1,30 @@
+# Document loading
+langchain
+langchain-community
+pypdf
+python-docx
+unstructured
+
+# NLP
+spacy
+
+# Embeddings
+sentence-transformers
+
+# Vector databases
+chromadb
+faiss-cpu
+
+# LLM
+groq
+langchain-groq
+
+# Environment
+python-dotenv
+
+# UI
+streamlit
+
+# Utilities
+pydantic
+pandas

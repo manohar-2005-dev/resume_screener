@@ -1,0 +1,79 @@
+﻿LEELA MANOHAR REDDY VAJRALA DATA SCIENCE INTERN
+
+9705127306 | 23l31a4460@gmail.com | LinkedIn Prole | github.com/manohar-2005-dev
+
+Summary | Technical Skills | Projects | Certications | Achievements | Education
+
+PROFESSIONAL SUMMARY
+
+Motivated Data Science Intern candidate with strong hands-on experience in Python (Pandas, NumPy, Matplotlib, Seaborn),
+SQL (PostgreSQL), EDA, and machine learning. Procient in building end-to-end data pipelines, performing exploratory data
+analysis to uncover patterns and insights, and creating data visualizations and dashboards using Power BI and Tableau. Experienced
+in model building, evaluation, and optimization (Random Forest, Gradient Boosting, Logistic Regression). Strong analytical thinking,
+documentation discipline, and collaborative mindset. B.Tech Data Science (8.8 CGPA), graduating 2027.
+
+TECHNICAL SKILLS
+
+Python & Li- Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  data cleaning, preprocessing, EDA, modelling
+braries:
+SQL & Databases: PostgreSQL, SQL queries, joins, aggregations, subqueries, data extraction & manipulation
+Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Excel  dashboards, charts, storytelling with data
+Machine Learning: Random Forest, Gradient Boosting, Logistic Regression, model evaluation, hyperparameter tuning
+Statistics: Descriptive statistics, probability, mean/median/mode, hypothesis testing, correlation, distributions
+AI & NLP (Bonus): Hugging Face Transformers, RAG Systems, LLMs, Vector Databases, LangChain, PyTorch
+Tools & Cloud: Git, VS Code, Jupyter, AWS, Firebase, Power BI, Tableau, Excel
+Programming: Python (DSA), C, JavaScript, Node.js
+
+PROJECTS
+
+End-to-End Music Popularity Prediction [GitHub]
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Random Forest | Gradient Boosting
+ Performed end-to-end data cleaning and preprocessing on a 227-record Spotify dataset: handled missing values, normalised
+audio features (danceability, energy, loudness, valence, tempo), and engineered new features for modelling.
+
+ Conducted thorough exploratory data analysis (EDA) using Pandas and Seaborn  identied patterns, correlations, and outliers;
+documented all ndings with visualizations and written interpretations.
+
+ Built and evaluated 3 ML models (Random Forest, Gradient Boosting, Linear Regression); best model (Random Forest) achieved
+R2 = 0.40 after hyperparameter tuning via GridSearchCV  a 100% improvement over baseline R2 = 0.20.
+
+ Delivered data visualizations and dashboards: feature importance charts, correlation heatmaps, and model performance plots
+using Matplotlib and Seaborn to present ndings clearly to a non-technical audience.
+
+Rule-Based Web Research Agent  Automated Data Retrieval & Analysis [GitHub]
+Python | Pandas | DuckDuckGo API | Wikipedia API | Hugging Face T5-small | ipywidgets
+ Built an automated data pipeline in Python: fetched real-time data from DuckDuckGo & Wikipedia APIs, cleaned and prepro-
+cessed raw text (removing noise, normalizing whitespace, chunking), and processed it through an NLP model.
+
+ Documented the entire pipeline workow, data transformation steps, and output quality analysis  maintaining clear project reports
+aligned with best practices for team collaboration.
+
+ Delivered structured, consistent data outputs from multi-source retrieval, demonstrating practical experience working with live,
+unstructured datasets and Python automation.
+
+Gen-to-Chatbot  Data Processing & ML Experimentation Suite [GitHub]
+Python | FAISS | FLAN-T5 | Hugging Face | Sentence Embeddings | RAG Pipeline
+ Designed and validated 3 distinct ML/NLP systems: text generation model, semantic similarity engine (embedding-based), and
+a PDF Q&A chatbot using FAISS vector store + FLAN-T5 (RAG pipeline).
+
+ Performed model testing and validation across dierent input types, documented results, and iterated on model congurations
+ demonstrating structured ML experimentation and optimization habits.
+
+CERTIFICATIONS
+
+ Data Analysis  GeeksforGeeks  Machine Learning  Kaggle
+ Power BI  Oce Master  Articial Intelligence  Cisco
+ AWS Cloud Practitioner  GeeksforGeeks  TensorFlow Badge  Google
+ Full-Stack Web Development  Udemy
+
+ACHIEVEMENTS & EXTRACURRICULARS
+
+ Rank 61 (Advanced Track)  NEC 2025, E-Cell IIT Bombay, competing among 4000+ teams nationwide.
+ NEC Finalist  IIT Bombay National Entrepreneurship Challenge; demonstrated analytical thinking and strategic leadership.
+ Lead  Entrepreneurship Development Cell; managed team projects, documented initiatives, and drove institutional innovation.
+ Participant  GENAI X NEXTWAVE Hackathon; collaborated with team to build and present a Generative AI solution.
+
+EDUCATION
+
+B.Tech in Data Science  Vignan's Institute of Information Technology, Visakhapatnam CGPA: 8.8 | 20232027
+Coursework: Python Programming, Statistics, SQL & DBMS, Machine Learning, Data Analysis, Data Structures & Algorithms, EDA
