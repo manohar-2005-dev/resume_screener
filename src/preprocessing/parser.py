@@ -239,7 +239,8 @@ def parse_resume(raw_text: str) -> dict:
         "linkedin": links["linkedin"],
         "skills": extract_skills(cleaned),
         "experience": extract_experience(cleaned),
-        "education": extract_education(cleaned)
+        "education": extract_education(cleaned),
+        "raw_text": cleaned
     }
     end = time.time()
     logger.info(f"Resume parsed in {end - start:.2f} seconds.")
