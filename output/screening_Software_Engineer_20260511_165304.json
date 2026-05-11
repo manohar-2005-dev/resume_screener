@@ -1,0 +1,54 @@
+[
+  {
+    "candidate_name": "LEELA MANOHAR REDDY VAJRALA",
+    "email": "23l31a4460@gmail.com",
+    "phone": "9705127306",
+    "github": "github.com/manohar-2005-dev",
+    "linkedin": null,
+    "skills_extracted": [
+      "Python",
+      "JavaScript",
+      "R",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "NLP",
+      "Data Analysis",
+      "PostgreSQL",
+      "Firebase",
+      "Git",
+      "GitHub",
+      "Docker",
+      "Power BI",
+      "FastAPI",
+      "AWS"
+    ],
+    "education": [
+      "B.Tech"
+    ],
+    "experience": {
+      "total_experience": 0,
+      "experience_details": [
+        "fresher"
+      ]
+    },
+    "match_score": 85,
+    "strengths": [
+      "hands-on experience with AI workflows and NLP",
+      "proficiency in Python and relevant tools like LangChain and Hugging Face",
+      "strong problem-solving skills and experience with ML model testing and validation"
+    ],
+    "missing_skills": [
+      "experience with TensorFlow",
+      "direct experience with computer vision or generative models"
+    ],
+    "recommendation": "Yes",
+    "summary": "Leela Manohar Reddy Vajrala is a highly motivated AI engineer with hands-on experience in building multi-agent systems and NLP pipelines, making them a strong fit for the AI Engineer role. Their proficiency in Python and relevant tools, along with their strong problem-solving skills, are notable strengths. While they lack direct experience with some specific tools and areas like TensorFlow and computer vision, their overall skillset and potential for growth make them a promising candidate.",
+    "rank": 1
+  }
+]

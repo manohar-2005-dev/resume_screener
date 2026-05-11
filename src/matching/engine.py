@@ -110,11 +110,11 @@ def save_results(results: List[dict], job_title: str = "position") -> str:
 
     # Step 4: write results to JSON file
     # Hint: json.dump(results, f, indent=2)
-    #with open(file_path, "w") as f:
-        #json.dumps(results, f, indent=2)
-    
+  # Step 4: write results to JSON file
+    with open(file_path, "w") as f:
+        json.dump(results, f, indent=2)    # ✅ uncommented, correct function
 
-    # Step 5: log and return file path
+# Step 5: log and return file path
     logger.info(f"Results saved to: {file_path}")
     return file_path
 
