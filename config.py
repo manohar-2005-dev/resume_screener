@@ -24,6 +24,7 @@ SAMPLES_PATH = os.path.join(BASE_DIR, "data", "samples")
 VECTOR_STORE_PATH = os.path.join(BASE_DIR,  "vectorstore")
 OUTPUT_PATH = os.path.join(BASE_DIR, "output")
 PROMPTS_PATH = os.path.join(BASE_DIR, "prompts")
+HF_TOKEN = os.getenv("HF_TOKEN")
 
 for path in [RAW_DATA_PATH, SAMPLES_PATH, VECTOR_STORE_PATH, OUTPUT_PATH, PROMPTS_PATH]:
     os.makedirs(path, exist_ok=True)# its default behaviour is False i.e if folder already exists crashes with file exists error 
