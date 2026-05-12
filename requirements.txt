@@ -28,3 +28,6 @@ streamlit
 # Utilities
 pydantic
 pandas
+
+#test
+pytest
