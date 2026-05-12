@@ -2,7 +2,7 @@
 
 An end-to-end AI-powered resume screening and candidate analysis system built with Python, LangChain, ChromaDB, and Groq/Llama 3. The system semantically matches resumes to job descriptions and generates professional recruiter reports.
 
----
+---Deployed application link : https://resumescreenergit-fsuepczc5c425vsq3gfqp6.streamlit.app/
 
 ## 📋 Table of Contents
 
