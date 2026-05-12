@@ -1,6 +1,10 @@
-import os 
-from dotenv import load_dotenv
-load_dotenv()
+import os
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()  # works locally, silently skipped on cloud
+except ImportError:
+    pass  # dotenv not needed on Streamlit Cloud
 
 # API Keys
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
